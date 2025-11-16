@@ -84,7 +84,7 @@ def show_final_tip():
     # 设置标签背景为粉红色（lightpink）
     tk.Label(
         final_window,
-        text='恣瑶子想不想我呀！',
+        text='曾静怡生日快乐，天天开心！',
         font=('微软雅黑', 18),
         width=20,
         height=2,
